@@ -29,12 +29,8 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
  
-<hr>
+<hr>    
 
-[![Soongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-
-[![Soongu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./chaewon-antifragile.gif)
 
