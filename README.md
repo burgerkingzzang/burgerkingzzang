@@ -1,10 +1,6 @@
 <div align=center>
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
-
-![](./치킨.gif)
-
 
   <h3>📚 Tech Stack 📚</h3>
 
@@ -29,9 +25,4 @@
 <hr>    
 
 
-![](./chaewon-antifragile.gif)
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
-  
-  
   </div>
